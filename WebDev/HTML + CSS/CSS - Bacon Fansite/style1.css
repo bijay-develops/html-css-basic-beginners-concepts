@@ -1,8 +1,34 @@
+/***********TAG SELECTOR**********/
+
+
 h1{
     color: red;
     font-size: 200px;
 }
 
-img{
-    color: red;
+
+img:hover {  /*Pseudo CSS*/
+    background-color: goldenrod;
 }
+
+
+/*********CLASS SELECTOR***********/
+
+.bacon {
+    background-color: pink;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+/*********ID SELECTOR***********/
+/* ID and Class selectors are more specific than Tag selector. They override tag selector.*/
+
+#heading {
+    color: blue;
+}
+
+
+
+/* ID is used to identify elements.  */
