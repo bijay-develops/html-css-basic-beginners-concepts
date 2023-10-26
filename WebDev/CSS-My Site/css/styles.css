@@ -70,6 +70,29 @@ h3{
     width: 11rem;
 }
 
-.skillimg {
+.skillimg1 {
     border-radius: 120%;
+    width: 30%;
+    float: left;
+    margin: auto 30px;
 }
+.skillimg2 {
+    border-radius: 120%;
+    width: 30%;
+    float: right;
+    margin: auto 30px;
+}
+
+.skill-row1 {
+    width: 50%;
+    margin: 50px auto 130px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill-row2 {
+    width: 50%;
+    margin: 150px auto 130px auto;
+    text-align: left;
+    line-height: 2;
+}
+
