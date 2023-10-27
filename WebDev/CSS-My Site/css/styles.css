@@ -1,4 +1,5 @@
 body{
+    color: #40514e;
     margin:0;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -33,18 +34,6 @@ h3{
     font-family: 'Montserrat', sans-serif; 
 }
 
-
-.MiddleContainer {
-    background-color: red;
-    height: 200px;
-    width: 200px;
-}
-
-.BottomContainer {
-    background-color: blue;
-    height: 200px;
-    width: 200px;
-}
 
 .dev{
     text-decoration: underline;
@@ -95,4 +84,33 @@ h3{
     text-align: left;
     line-height: 2;
 }
+
+.introduction {
+    width: 30%;
+    margin: auto;
+}
+
+hr{
+    margin: 50px auto 100px auto;
+    border-style: dotted none none;
+    border-color: gray;
+    border-width: 5px;
+    height:0px;
+    width:7%;
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 30px auto;
+}
+
+.bottom-container{
+    margin-top: 100px;
+}
+
+
+              
+
+                
+
 
